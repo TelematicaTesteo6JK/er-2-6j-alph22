@@ -1,0 +1,25 @@
+
+1-----------------------------------------------
+ ejercicio o interfaz: en la carpeta anterior.
+
+
+a) __8_ casos, b) __27_ casos
+
+
+2-----------------------------------------------
+
+
+
+Operaciones:
+
+2	x	2	x	2 = 8 posibles combinaciones.
+v/f    	       v/f	       v/f	
+
+3	  x		  3		 x 		 3  = 27 posibles combinaciones.
+v,i,f			v,i,f			       v,i,f
+
+
+
+3-----------------------------------------------
+
+Nivel de prueba: __casos de uso__, porque ___porque es donde se aplica la prueba de los posibles datos que puede ingresar el usuario a la interfaz, independientemente de lo que ocurra dentro del sistema, sólo se comprueba que el usuario ingrese los datos correctos.__
