@@ -22,4 +22,4 @@ v,i,f			v,i,f			       v,i,f
 
 3-----------------------------------------------
 
-Nivel de prueba: __casos de uso__, porque ___porque es donde se aplica la prueba de los posibles datos que puede ingresar el usuario a la interfaz, independientemente de lo que ocurra dentro del sistema, sólo se comprueba que el usuario ingrese los datos correctos.__
+Nivel de prueba: __integracion__, porque ___porque es donde se aplica la prueba de los posibles datos que puede ingresar el usuario a la interfaz, independientemente de lo que ocurra dentro del sistema, sólo se comprueba que el usuario ingrese los datos correctos.__
